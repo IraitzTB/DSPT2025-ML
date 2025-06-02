@@ -12,6 +12,10 @@ Información y glosario:
 
 - https://developers.google.com/machine-learning/glossary
 
+## Entorno
+
+Puedes recrear el entorno necesario mediante el fichero _requirements.txt_.
+
 ### Autores
 
 **Lead Instructor**: *Iraitz Montalbán*
