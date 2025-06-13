@@ -5,16 +5,12 @@
 Para clonar este repositorio por https:
 
 ```
-git clone https://github.com/IraitzTB/DSPT2025-ML
+git clone https://github.com/IraitzM/TheBridge_DSPT_ML
 ```
 
 Información y glosario:
 
 - https://developers.google.com/machine-learning/glossary
-
-## Entorno
-
-Puedes recrear el entorno necesario mediante el fichero _requirements.txt_.
 
 ### Autores
 
