@@ -42,6 +42,30 @@ Tras estas piezas y haber automatizado lo máximo posible, nuestro ciclo de entr
 
 Más adelante lo veremos en más detalle pero esta es una de las razones por la que los orquestadores corporativos se vuelven críticos en el mundo del ML.
 
+## 5. Documentación
+
+Siempre nos cuesta este punto pero un correcto uso de nuestros modelos o soluciones siempre va asociado a una buena documentación. Clara, sencilla de buscar y con ejemplos. Pueden volverse muy grandes pero debemos procurar que siempre sea sencillo buscar lo que necesitamos. Un claro ejemplo son las documentaciones de:
+
+* Scikit-learn: https://scikit-learn.org/stable/
+* Streamlit: https://docs.streamlit.io/
+* FastAPI: https://fastapi.tiangolo.com/
+
+Pensaréis que estas documentaciones tienen equipos de desarrollo detrás, pero muchas veces se trata de una única persona que además puede que ni sepa programar páginas web (bueno, quizás algo sí). Estas documentaciones son posibles gracias a frameworks que nos ayudan a montar el grueso de la aplicación y solo requieren que nosotros rellenemos el contenido, empleando Markdown además para no tener que aprender demasiadas cosas nuevas.
+
+* Sphinx: https://www.sphinx-doc.org/en/master/
+* Material for MkDocs: https://squidfunk.github.io/mkdocs-material/
+* Quarto: https://quarto.org/
+
+Pudiendo además hospedarlas de forma gratuita en plataformas como [ReadTheDocs](https://about.readthedocs.com/) o el mismo [Github Pages](https://pages.github.com/). En el mundo de los modelos existen dos estándares de los que no nos deberíamos olvidar:
+
+* Data Cards: https://sites.research.google/datacardsplaybook/
+* Model Cards: https://modelcards.withgoogle.com/
+
+Un buen ejemplo de estas tarjetas lo podemos encontrar en las descripciones de los modelos de HuggingFace:
+
+* Go emotions: https://huggingface.co/datasets/google-research-datasets/go_emotions
+* Gemma-3n: https://huggingface.co/google/gemma-3n-E4B-it 
+
 ### Recursos adicionales
 
 - [Guía de MLOps de Google](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
